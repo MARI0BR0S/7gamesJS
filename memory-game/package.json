@@ -1,0 +1,15 @@
+{
+  "name": "memory-game",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite && prettier --write app",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "vite": "^4.3.9"
+  }
+}
